@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{A23D64A3-4419-40FC-8868-E57E2583AF57}|https">
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.Persistance FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Presentation FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Core.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Frontend.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Core.Domain FirstBuild="True" />
+</Properties>
