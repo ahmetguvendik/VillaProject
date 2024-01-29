@@ -5,244 +5,228 @@
       "PackagePath": "staticwebassets/Frontend.bundle.scp.css"
     },
     {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/animate.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/flex-slider.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/css/flex-slider.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/fontawesome.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/owl.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/css/owl.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/templatemo-villa-agency.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/css/templatemo-villa-agency.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-01.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/banner-01.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-02.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/banner-02.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-03.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/banner-03.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/contact-bg.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/contact-bg.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-01.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/deal-01.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-02.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/deal-02.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-03.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/deal-03.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/email-icon.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/email-icon.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/featured-icon.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/featured-icon.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/featured.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/featured.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-01.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/info-icon-01.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-02.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/info-icon-02.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-03.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/info-icon-03.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-04.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/info-icon-04.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/page-heading-bg.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/page-heading-bg.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/phone-icon.png",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/phone-icon.png"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-01.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-01.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-02.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-02.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-03.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-03.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-04.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-04.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-05.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-05.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-06.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/property-06.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/single-property.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/single-property.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/video-bg.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/video-bg.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/video-frame.jpg",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/images/video-frame.jpg"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/counter.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/js/counter.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/custom.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/isotope.min.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/js/isotope.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/owl-carousel.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/js/owl-carousel.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/contact.html",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/contact.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/index.html",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/index.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/properties.html",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/properties.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/property-details.html",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/property-details.html"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.map",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.map"
     },
     {
       "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Id": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",

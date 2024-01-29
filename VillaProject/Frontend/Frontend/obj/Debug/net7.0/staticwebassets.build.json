@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zhyfeJBSOynPUKF9QMyXECk3G9GntbnwN+tY8R8co04=",
+  "Hash": "bDd9oVCdRFbaY/i0eRGYf1WhDERtxA0sFTHc2SrqSYc=",
   "Source": "Frontend",
   "BasePath": "_content/Frontend",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/obj/Debug/net7.0/scopedcss/projectbundle/Frontend.bundle.scp.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/css/site.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/.DS_Store",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "css/site.css",
+      "RelativePath": ".DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/favicon.ico",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/js/site.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/animate.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "js/site.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/css/animate.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/css/animate.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/flex-slider.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/css/flex-slider.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/css/flex-slider.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/fontawesome.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/css/fontawesome.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/css/fontawesome.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/owl.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/css/owl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/css/owl.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/css/templatemo-villa-agency.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/css/templatemo-villa-agency.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/css/templatemo-villa-agency.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-01.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/banner-01.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/banner-01.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-02.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/banner-02.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/banner-02.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/banner-03.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/banner-03.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/banner-03.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/contact-bg.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/contact-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/contact-bg.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-01.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/deal-01.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/deal-01.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-02.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/deal-02.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/deal-02.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/deal-03.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/deal-03.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/deal-03.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/email-icon.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/email-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/email-icon.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/featured-icon.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/featured-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/featured-icon.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/featured.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/featured.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/featured.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-01.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/info-icon-01.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/info-icon-01.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-02.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/info-icon-02.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/info-icon-02.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-03.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/info-icon-03.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/info-icon-03.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/info-icon-04.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/info-icon-04.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/info-icon-04.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/page-heading-bg.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/page-heading-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/page-heading-bg.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/phone-icon.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/phone-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/phone-icon.png"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-01.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-01.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-01.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-02.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-02.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-02.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-03.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-03.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-03.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-04.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-04.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-04.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-05.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-05.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-05.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/property-06.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/property-06.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/property-06.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/single-property.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/single-property.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/single-property.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/video-bg.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/video-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/video-bg.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/images/video-frame.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/images/video-frame.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/images/video-frame.jpg"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/counter.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/js/counter.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/js/counter.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/custom.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "RelativePath": "VillaAgency-1.0.0/assets/js/custom.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/js/custom.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/isotope.min.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/js/isotope.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/js/isotope.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/js/owl-carousel.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/js/owl-carousel.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/js/owl-carousel.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.ttf",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.ttf"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.woff2",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-brands-400.woff2"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.ttf",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.ttf"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.woff2",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-regular-400.woff2"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.ttf",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.ttf"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.woff2",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-solid-900.woff2"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.ttf",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.ttf"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.woff2",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/assets/webfonts/fa-v4compatibility.woff2"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/contact.html",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "VillaAgency-1.0.0/contact.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/contact.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/index.html",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "VillaAgency-1.0.0/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/index.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/properties.html",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "VillaAgency-1.0.0/properties.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/properties.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/property-details.html",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "VillaAgency-1.0.0/property-details.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/property-details.html"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/bootstrap/css/bootstrap.min.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/bootstrap/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/bootstrap/js/bootstrap.min.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/bootstrap/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.map",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.min.map"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.slim.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.js",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.js"
     },
     {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.map",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
       "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,75 +1000,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
-    },
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.js",
-      "SourceId": "Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
-      "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.min.js",
-      "SourceId": "Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
-      "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/dist/jquery.min.map",
-      "SourceId": "Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
-      "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
-    },
-    {
-      "Identity": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/lib/jquery/LICENSE.txt",
-      "SourceId": "Frontend",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ahmetguvendik/Desktop/Projeler/Asp.NetCore/VillaProject/Frontend/Frontend/wwwroot/",
-      "BasePath": "_content/Frontend",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/VillaAgency-1.0.0/vendor/jquery/jquery.slim.min.map"
     }
   ]
 }

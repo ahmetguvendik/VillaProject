@@ -1,8 +1,68 @@
 ﻿<Properties StartupConfiguration="{A23D64A3-4419-40FC-8868-E57E2583AF57}|https">
-  <MonoDevelop.Ide.ItemProperties.Infrastructure.Persistance FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Presentation.Presentation FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Core.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Frontend.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Core.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Frontend/Frontend/Views/Default/Index.cshtml">
+    <Files>
+      <File FileName="Frontend/Frontend/Controllers/DefaultController.cs" Line="1" Column="1" />
+      <File FileName="Frontend/Frontend/Views/Default/Index.cshtml" Line="61" Column="1" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/PreloaderPartial.cs" Line="8" Column="2" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/TopBarPartial.cs" Line="10" Column="27" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/SliderPartial.cs" Line="5" Column="2" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/VillaDetailPartial.cs" Line="11" Column="10" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/VideoPartial.cs" Line="15" Column="1" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/StatisticsPartial.cs" Line="6" Column="48" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/ProperiesPartial.cs" Line="6" Column="47" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/FooterPartial.cs" Line="6" Column="44" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/PreloaderPartial/Default.cshtml" Line="10" Column="7" />
+      <File FileName="Frontend/Frontend/ViewComponents/Default/ContactPartial.cs" Line="13" Column="2" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/TopBarPartial/Default.cshtml" Line="20" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/HeaderPartial/Default.cshtml" Line="27" Column="10" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/SliderPartial/Default.cshtml" Line="22" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/VillaDetailPartial/Default.cshtml" Line="78" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/VideoPartial/Default.cshtml" Line="26" Column="1" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/StatisticsPartial/Default.cshtml" Line="30" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/ProperiesPartial/Default.cshtml" Line="122" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/ContactPartial/Default.cshtml" Line="14" Column="30" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/FooterPartial/Default.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VillaProject" expanded="True" selected="True">
+            <Node name="Frontend" expanded="True">
+              <Node name="Frontend" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="ViewComponents" expanded="True">
+                  <Node name="Default" expanded="True" />
+                </Node>
+                <Node name="Views" expanded="True">
+                  <Node name="Default" expanded="True" />
+                  <Node name="Shared" expanded="True">
+                    <Node name="Components" expanded="True">
+                      <Node name="ContactPartial" expanded="True" />
+                      <Node name="FooterPartial" expanded="True" />
+                      <Node name="HeaderPartial" expanded="True" />
+                      <Node name="ProperiesPartial" expanded="True" />
+                      <Node name="SliderPartial" expanded="True" />
+                      <Node name="TopBarPartial" expanded="True" />
+                      <Node name="VideoPartial" expanded="True" />
+                      <Node name="VillaDetailPartial" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="wwwroot" expanded="True">
+                  <Node name="VillaAgency-1.0.0" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Frontend.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
 </Properties>

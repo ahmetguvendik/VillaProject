@@ -8,4 +8,36 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Views\Default\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="ViewComponents\Default\" />
+    <None Remove="Views\Shared\Components\PreloaderPartial\" />
+    <None Remove="Views\Shared\Components\ContactPartial\" />
+    <None Remove="Views\Shared\Components\FooterPartial\" />
+    <None Remove="Views\Shared\Components\HeaderPartial\" />
+    <None Remove="Views\Shared\Components\ProperiesPartial\" />
+    <None Remove="Views\Shared\Components\SliderPartial\" />
+    <None Remove="Views\Shared\Components\StatisticsPartial\" />
+    <None Remove="Views\Shared\Components\TopBarPartial\" />
+    <None Remove="Views\Shared\Components\VideoPartial\" />
+    <None Remove="Views\Shared\Components\VillaDetailPartial\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Default\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="ViewComponents\Default\" />
+    <Folder Include="Views\Shared\Components\PreloaderPartial\" />
+    <Folder Include="Views\Shared\Components\ContactPartial\" />
+    <Folder Include="Views\Shared\Components\FooterPartial\" />
+    <Folder Include="Views\Shared\Components\HeaderPartial\" />
+    <Folder Include="Views\Shared\Components\ProperiesPartial\" />
+    <Folder Include="Views\Shared\Components\SliderPartial\" />
+    <Folder Include="Views\Shared\Components\StatisticsPartial\" />
+    <Folder Include="Views\Shared\Components\TopBarPartial\" />
+    <Folder Include="Views\Shared\Components\VideoPartial\" />
+    <Folder Include="Views\Shared\Components\VillaDetailPartial\" />
+  </ItemGroup>
 </Project>
