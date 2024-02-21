@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{A23D64A3-4419-40FC-8868-E57E2583AF57}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Frontend.Frontend PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Presentation/Program.cs">
+    <Files>
+      <File FileName="Frontend/Frontend/Views/Default/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/TopBarPartial/Default.cshtml" Line="20" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/HeaderPartial/Default.cshtml" Line="24" Column="19" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/SliderPartial/Default.cshtml" Line="22" Column="7" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/PreloaderPartial/Default.cshtml" Line="1" Column="1" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/ProperiesPartial/Default.cshtml" Line="11" Column="26" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/VideoPartial/Default.cshtml" Line="7" Column="58" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/VillaDetailPartial/Default.cshtml" Line="75" Column="19" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/StatisticsPartial/Default.cshtml" Line="1" Column="1" />
+      <File FileName="Frontend/Frontend/Views/Shared/Components/ContactPartial/Default.cshtml" Line="8" Column="23" />
+      <File FileName="Core/Domain/Entities/BaseEntity.cs" Line="6" Column="33" />
+      <File FileName="Core/Domain/Entities/Room.cs" Line="17" Column="2" />
+      <File FileName="Core/Domain/Entities/Contact.cs" Line="13" Column="2" />
+      <File FileName="Infrastructure/Persistance/Contexts/ProjectDbContext.cs" Line="13" Column="6" />
+      <File FileName="Infrastructure/Persistance/ServiceRegistration.cs" Line="10" Column="49" />
+      <File FileName="Infrastructure/Persistance/DesignTimeDbContext.cs" Line="15" Column="50" />
+      <File FileName="Presentation/Presentation/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VillaProject" expanded="True" selected="True">
+            <Node name="Core" expanded="True">
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Frontend" expanded="True" />
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Persistance" expanded="True">
+                <Node name="Contexts" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Presentation" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

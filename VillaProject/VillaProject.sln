@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{D02A0361-1975-48AA-B607-88970D5B92CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{923A906E-C6D5-4088-BE56-2F5D57F8D9DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{E09CF48A-A3F3-40E1-8003-FA6EB3AE6957}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{9DCBCA05-82C9-4598-80F2-638F5F36201B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Core\Application\Application.csproj", "{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Core\Domain\Domain.csproj", "{1DE03AAE-9296-43B5-AE4A-DBB8860E3712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frontend", "Frontend\Frontend\Frontend.csproj", "{A23D64A3-4419-40FC-8868-E57E2583AF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "Infrastructure\Persistance\Persistance.csproj", "{640D3037-AAAB-4760-A5EA-02BA91B3AB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation\Presentation.csproj", "{6185C4B3-65E0-4399-B0C0-50ADB70A14FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE03AAE-9296-43B5-AE4A-DBB8860E3712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE03AAE-9296-43B5-AE4A-DBB8860E3712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE03AAE-9296-43B5-AE4A-DBB8860E3712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE03AAE-9296-43B5-AE4A-DBB8860E3712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23D64A3-4419-40FC-8868-E57E2583AF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23D64A3-4419-40FC-8868-E57E2583AF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23D64A3-4419-40FC-8868-E57E2583AF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23D64A3-4419-40FC-8868-E57E2583AF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640D3037-AAAB-4760-A5EA-02BA91B3AB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640D3037-AAAB-4760-A5EA-02BA91B3AB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640D3037-AAAB-4760-A5EA-02BA91B3AB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640D3037-AAAB-4760-A5EA-02BA91B3AB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6185C4B3-65E0-4399-B0C0-50ADB70A14FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6185C4B3-65E0-4399-B0C0-50ADB70A14FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6185C4B3-65E0-4399-B0C0-50ADB70A14FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6185C4B3-65E0-4399-B0C0-50ADB70A14FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3671518C-AB2C-4BDD-844A-984A319D1C3A}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3A59440-2E66-4694-B0DE-4F10AEB4DDD7} = {D02A0361-1975-48AA-B607-88970D5B92CD}
+		{1DE03AAE-9296-43B5-AE4A-DBB8860E3712} = {D02A0361-1975-48AA-B607-88970D5B92CD}
+		{A23D64A3-4419-40FC-8868-E57E2583AF57} = {E09CF48A-A3F3-40E1-8003-FA6EB3AE6957}
+		{640D3037-AAAB-4760-A5EA-02BA91B3AB62} = {923A906E-C6D5-4088-BE56-2F5D57F8D9DC}
+		{6185C4B3-65E0-4399-B0C0-50ADB70A14FB} = {9DCBCA05-82C9-4598-80F2-638F5F36201B}
+	EndGlobalSection
+EndGlobal
